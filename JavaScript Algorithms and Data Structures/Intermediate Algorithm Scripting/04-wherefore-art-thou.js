@@ -3,7 +3,7 @@ function whatIsInAName(collection, source) {
   const new_arr = [];
 
   // Array of keys used in the source
-  const keys = Object.keys(source)
+  const keys = Object.keys(source);
   
   // Loop through each object in the collection
   for (const item in collection) {
@@ -11,11 +11,11 @@ function whatIsInAName(collection, source) {
     // using that key matches the source item using that key. If
     // it does, add it to the final array
     if (keys.every(key => collection[item][key] === source[key])) {
-      new_arr.push(collection[item]) 
+      new_arr.push(collection[item]);
     }
   }
   
-  return new_arr
+  return new_arr;
 }
 
 whatIsInAName([{ first: "Romeo", last: "Montague" }, { first: "Mercutio", last: null }, { first: "Tybalt", last: "Capulet" }], { last: "Capulet" });
