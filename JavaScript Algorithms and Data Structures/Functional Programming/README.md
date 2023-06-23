@@ -1,24 +1,24 @@
-1. Learn About Functional Programming
-2. Understand Functional Programming Terminology
-3. Understand the Hazards of Using Imperative Code
-4. Avoid Mutations and Side Effects Using Functional Programming
-5. Pass Arguments to Avoid External Dependence in a Function
-6. Refactor Global Variables Out of Functions
-7. Use the map Method to Extract Data from an Array
-8. Implement map on a Prototype
-9. Use the filter Method to Extract Data from an Array
-10. Implement the filter Method on a Prototype
-11. Return Part of an Array Using the slice Method
-12. Remove Elements from an Array Using slice Instead of splice
-13. Combine Two Arrays Using the concat Method
-14. Add Elements to the End of an Array Using concat Instead of push
-15. Use the reduce Method to Analyze Data
-16. Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem
-17. Sort an Array Alphabetically using the sort Method
-18. Return a Sorted Array Without Changing the Original Array
-19. Split a String into an Array Using the split Method
-20. Combine an Array into a String Using the join Method
-21. Apply Functional Programming to Convert Strings to URL Slugs
-22. Use the every Method to Check that Every Element in an Array Meets a Criteria
-23. Use the some Method to Check that Any Elements in an Array Meet a Criteria
-24. Introduction to Currying and Partial Application
+- [x] 01 Learn About Functional Programming
+- [x] 02 Understand Functional Programming Terminology
+- [x] 03 Understand the Hazards of Using Imperative Code
+- [x] 04 Avoid Mutations and Side Effects Using Functional Programming
+- [x] 05 Pass Arguments to Avoid External Dependence in a Function
+- [x] 06 Refactor Global Variables Out of Functions
+- [x] 07 Use the map Method to Extract Data from an Array
+- [x] 08 Implement map on a Prototype
+- [x] 09 Use the filter Method to Extract Data from an Array
+- [x] 10 Implement the filter Method on a Prototype
+- [x] 11 Return Part of an Array Using the slice Method
+- [x] 12 Remove Elements from an Array Using slice Instead of splice
+- [x] 13 Combine Two Arrays Using the concat Method
+- [x] 14 Add Elements to the End of an Array Using concat Instead of push
+- [x] 15 Use the reduce Method to Analyze Data
+- [x] 16 Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem
+- [x] 17 Sort an Array Alphabetically using the sort Method
+- [x] 18 Return a Sorted Array Without Changing the Original Array
+- [x] 19 Split a String into an Array Using the split Method
+- [x] 20 Combine an Array into a String Using the join Method
+- [x] 21 Apply Functional Programming to Convert Strings to URL Slugs
+- [x] 22 Use the every Method to Check that Every Element in an Array Meets a Criteria
+- [x] 23 Use the some Method to Check that Any Elements in an Array Meet a Criteria
+- [x] 24 Introduction to Currying and Partial Application
