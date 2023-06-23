@@ -1,20 +1,20 @@
-01. Use an Array to Store a Collection of Data
-02. Access an Array's Contents Using Bracket Notation
-03. Add Items to an Array with push() and unshift()
-04. Remove Items from an Array with pop() and shift()
-05. Remove Items Using splice()
-06. Add Items Using splice()
-07. Copy Array Items Using slice()
-08. Copy an Array with the Spread Operator
-09. Combine Arrays with the Spread Operator
-10. Check For The Presence of an Element With indexOf()
-11. Iterate Through All an Array's Items Using For Loops
-12. Create complex multi-dimensional arrays
-13. Add Key-Value Pairs to JavaScript Objects
-14. Modify an Object Nested Within an Object
-15. Access Property Names with Bracket Notation
-16. Use the delete Keyword to Remove Object Properties
-17. Check if an Object has a Property
-18. Iterate Through the Keys of an Object with a for...in Statement
-19. Generate an Array of All Object Keys with Object.keys()
-20. Modify an Array Stored in an Object
+- [x] 01 Use an Array to Store a Collection of Data
+- [x] 02 Access an Array's Contents Using Bracket Notation
+- [x] 03 Add Items to an Array with push() and unshift()
+- [x] 04 Remove Items from an Array with pop() and shift()
+- [x] 05 Remove Items Using splice()
+- [x] 06 Add Items Using splice()
+- [x] 07 Copy Array Items Using slice()
+- [x] 08 Copy an Array with the Spread Operator
+- [x] 09 Combine Arrays with the Spread Operator
+- [x] 10 Check For The Presence of an Element With indexOf()
+- [x] 11 Iterate Through All an Array's Items Using For Loops
+- [x] 12 Create complex multi-dimensional arrays
+- [x] 13 Add Key-Value Pairs to JavaScript Objects
+- [x] 14 Modify an Object Nested Within an Object
+- [x] 15 Access Property Names with Bracket Notation
+- [x] 16 Use the delete Keyword to Remove Object Properties
+- [x] 17 Check if an Object has a Property
+- [x] 18 Iterate Through the Keys of an Object with a for...in Statement
+- [x] 19 Generate an Array of All Object Keys with Object.keys()
+- [x] 20 Modify an Array Stored in an Object
