@@ -1,16 +1,16 @@
-01. Convert Celsius to Fahrenheit
-02. Reverse a String
-03. Factorialize a Number
-04. Find the Longest Word in a String
-05. Return Largest Numbers in Arrays
-06. Confirm the Ending
-07. Repeat a String Repeat a String
-08. Truncate a String
-09. Finders Keepers
-10. Boo who
-11. Title Case a Sentence
-12. Slice and Splice
-13. Falsy Bouncer
-14. Where do I Belong
-15. Mutations
-16. Chunky Monkey
+- [x] 01 Convert Celsius to Fahrenheit
+- [x] 02 Reverse a String
+- [x] 03 Factorialize a Number
+- [x] 04 Find the Longest Word in a String
+- [x] 05 Return Largest Numbers in Arrays
+- [x] 06 Confirm the Ending
+- [x] 07 Repeat a String Repeat a String
+- [x] 08 Truncate a String
+- [x] 09 Finders Keepers
+- [x] 10 Boo who
+- [x] 11 Title Case a Sentence
+- [x] 12 Slice and Splice
+- [x] 13 Falsy Bouncer
+- [x] 14 Where do I Belong
+- [x] 15 Mutations
+- [x] 16 Chunky Monkey
